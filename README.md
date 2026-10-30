@@ -1,142 +1,81 @@
 <div align="center">
 
-```text
- █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗
-██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝
-███████║██╔██╗ ██║██║  ██║██████╔╝█████╗
-██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝
-██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝
+<img src="./assets/banner.svg" alt="André Lemus — Software Developer, Founder of LogicAL" width="100%"/>
+
+<br/>
+
+[![CV](https://img.shields.io/badge/CV-Download-00D9FF?style=flat-square&labelColor=0B0F19)](https://github.com/sombra2323/sombra2323/raw/main/assets/CV-Andre-Lemus.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-logicalmx.netlify.app-00D9FF?style=flat-square&labelColor=0B0F19)](https://logicalmx.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&labelColor=0B0F19&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C2%A9-logical-bb5aa5304)
+[![Email](https://img.shields.io/badge/Email-andre23negocios@gmail.com-2563EB?style=flat-square&labelColor=0B0F19&logo=gmail&logoColor=white)](mailto:andre23negocios@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@logical__mx-2563EB?style=flat-square&labelColor=0B0F19&logo=instagram&logoColor=white)](https://instagram.com/logical_mx)
+
+</div>
+
+<br/>
+
+## About
+
+```ts
+const andre = {
+  role: "Software Developer & Founder",
+  company: "LogicAL",
+  location: "México",
+  education: "Software Engineering",
+  focus: ["Desktop", "Web", "Mobile"],
+  building: ["NoteSoftware", "Layenly", "OnionAI"],
+  learning: ["Android", "SaaS architecture", "Cloud", "AI"],
+  principle: "Build software that solves real problems.",
+} as const;
 ```
 
-# André Lemus
+<br/>
 
-### Software Developer • Founder of LogicAL 🇲🇽
+## Projects
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Developer;Founder+of+LogicAL;Building+NoteSoftware;Building+Layenly;Desktop+%7C+Web+%7C+Mobile+Developer;Always+Learning+New+Technologies"/>
+| Project | What it is | Status |
+|:--|:--|:--|
+| **NoteSoftware** | Attendance and management SaaS with education and business editions | `Active` |
+| **NoteAcademy** | QR-based attendance platform for schools | `Active` |
+| **Layenly** | Fan fiction and alternate endings platform, built with React and Tailwind | `Building` |
+| **InkerTattoos** | Platform for tattoo studios | `Active` |
+| **OnionAI** | Artificial intelligence project | `Active` |
+| **Aether** | Weather platform | `Shipped` |
 
-<br>
+<br/>
 
-<a href="https://github.com/sombra2323/sombra2323/raw/main/assets/CV-Andre-Lemus.pdf">
-<img src="https://img.shields.io/badge/📄_Download_CV-2563EB?style=for-the-badge"/>
-</a>
+## Stack
 
-<a href="https://logicalmx.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge"/>
-</a>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,kotlin,cs,cpp,js" alt="Languages"/></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" alt="Web"/></td>
+  </tr>
+  <tr>
+    <td><b>Desktop &amp; Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=qt,androidstudio" alt="Desktop and mobile"/></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,supabase,sqlite" alt="Data"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,netlify" alt="Tools"/></td>
+  </tr>
+</table>
 
-<a href="mailto:andre23negocios@gmail.com">
-<img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/%C2%A9-logical-bb5aa5304">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/logical_mx">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sombra2323&style=for-the-badge&color=0e75b6"/>
-
-</div>
-
----
-
-# 🧠 About Me
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║ 👨 Name      │ André Lemus                                ║
-║ 🌎 Country   │ Mexico                                     ║
-║ 🎓 Career    │ Software Engineering Student               ║
-║ 💼 Company   │ LogicAL                                    ║
-║ 🚀 Focus     │ Desktop • Web • Mobile Apps                ║
-║ 🧠 Passion   │ Building software that solves problems     ║
-║ ☕ Learning  │ Android • SaaS • Cloud • AI                ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ Technologies
+## GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,nodejs,express,mysql,supabase,sqlite,git,github,vscode,visualstudio,androidstudio,figma"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sombra2323&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=94A3B8&include_all_commits=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sombra2323&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=94A3B8" alt="Top languages"/>
 
 </div>
-
----
-
-# 🚀 Current Projects
-
-| Project | Description | Status |
-|----------|-------------|--------|
-| 🎓 **NoteSoftware** | Educational & Business SaaS | 🚀 Active |
-| 📚 **NoteAcademy** | QR Attendance Platform | 🚀 Active |
-| 💬 **Layenly** | AI Project | 🧠 Building |
-| 🖋️ **InkerTattoos** | Tattoo Studio Platform | 🚀 Active |
-| 🤖 **OnionAI** | Artificial Intelligence | ⚡ Active |
-| 🌦️ **Aether** | Weather Platform | ✅ Finished |
-
----
-
-# 🛠 Development Workflow
-
-```text
-      Idea
-       │
-       ▼
-   Research
-       │
-       ▼
-   Planning
-       │
-       ▼
- Architecture
-       │
-       ▼
- Development
-       │
-       ▼
-   Testing
-       │
-       ▼
- Deployment
-       │
-       ▼
- Continuous Improvement
-```
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sombra2323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sombra2323&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sombra2323&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sombra2323&theme=tokyonight"/>
-
-</div>
-
----
